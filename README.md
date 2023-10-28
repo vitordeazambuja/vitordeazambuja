@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vitor</h1>
-<h3 align="center">A Computer Engineering student and a front-end enthusiast</h3>
-
-- 🌱 I’m currently learning **React.js and Redux**
 
 - 📫 How to reach me **vitordeazambuja@edu.uniube.br**
 
