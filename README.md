@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm interest in learning more about programming and tech stuff<br>🎯 Goals: Become a great programmer that excels in problem-solving<br>📫 How to reach me: vitordeazambuja@gmail.com.br</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm interested in learning more about programming and tech stuff<br>🎯 Goals: Become a great programmer that excels in problem-solving<br>📫 How to reach me: vitordeazambuja@gmail.com.br</p>
 
 ###
 
