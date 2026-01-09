@@ -1,49 +1,44 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Quem sou eu?
 
-###
+Sou um estudante de Engenharia de Computação que tem interesse por (quase) tudo que envolve tecnologia.
 
-<p align="left">My name is Vitor and I'm a computer engineering student, from Uberlândia.</p>
+Lógica, software, eletrônica, engenharia e tudo o que acontece entre uma coisa e outra.
 
-###
+Acredito que é sobre entender como as coisas funcionam do começo ao fim.
 
-<h2 align="left">About me</h2>
+É impossível (e sem graça) pensar separado quando tudo faz mais sentido conectado.
 
-###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm interested in learning more about programming and tech stuff<br>🎯 Goals: Become a great programmer that excels in problem-solving<br>📫 How to reach me: vitordeazambuja@gmail.com.br</p>
+## Tecnologias
 
-###
+Normalmente trabalho com coisas como:
 
-<h2 align="left">I code with</h2>
 
-###
+**Linguagens:** C, Javascript, Java, Python, Swift, SQL, AdvPL
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-</div>
+**Frameworks:** React, FastAPI, SwiftUI
 
-###
+
+Ou algo completamente novo. Faz parte.
+
+
+## O que você vai encontrar por aqui
+
+Projetos de diferentes tipos e escalas, com linguagens e frameworks variados.
+
+Coisas úteis, experimentos, e um pouco de programação esotérica.
+
+
+Alguns repositórios são somente para consulta. ~~Não toque, é arte.~~
+
+
+## Em andamento:
+
+No momento estou focado em:
+- explorar novas linguagens e novos frameworks
+- estender o uso de padrões de clean code/architeture
+- ~~rushar B p90 sem smoke~~
+
+---
+
+_motd: se parece que algo está errado, provavelmente está mesmo._
