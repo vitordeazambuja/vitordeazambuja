@@ -37,7 +37,6 @@ Alguns repositórios são somente para consulta. ~~Não toque, é arte.~~
 No momento estou focado em:
 - explorar novas linguagens e novos frameworks
 - estender o uso de padrões de clean code/architeture
-- ~~rushar B p90 sem smoke~~
 
 ---
 
